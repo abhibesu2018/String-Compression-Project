@@ -1,0 +1,11 @@
+/bin/
+.cache-main
+.cache-tests
+.classpath
+.git/
+.project
+README
+.settings/
+/target/
+project/*
+!/project/build.properties
